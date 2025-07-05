@@ -106,6 +106,7 @@ Bu proje, Laravel ve MySQL kullanılarak geliştirilmiş bir web tabanlı araç 
 4. Değişiklikleri push edin: `git push origin ozellik-adi`
 5. Pull Request oluşturun.
 
+
 ## İletişim
 Sorularınız için: [email@example.com](mailto:email@example.com)  
 GitHub: [kullanici_adi](https://github.com/kullanici_adi)
